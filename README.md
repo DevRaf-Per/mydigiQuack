@@ -5,7 +5,7 @@ digiQuack is an easy DuckyScript to DigiSpark payload converter based on C++. It
 
 
 ## Instructions - Online (Recommended) 🌐
-You can use digiQuack by visiting the [converter website](https://cedarctic.github.io/digiQuack/).
+You can use digiQuack by visiting the [converter website](https://devraf-per.github.io/mydigiQuack/).
 
 ## Instructions - Local 💻
 ![screenshot](/images/screenshot.png)
@@ -24,7 +24,7 @@ The converted file will be placed in the scripts' directory (or for macOS under 
 
 ## Downloads
 
-See the releases page to get the latest version: https://github.com/CedArctic/digiQuack/releases/ 
+See the releases on [CedArctic](https://github.com/CedArctic)'s page to get the latest version: https://github.com/CedArctic/digiQuack/releases/ 
 
 ## Digispark Scripts
 
